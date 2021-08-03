@@ -14,7 +14,8 @@
 1. my-akka-actor
     * actor 동작 과정 학습용 모듈
 2. my-akka-http
-    * http 서버 구현용 모
+    * http 서버 구현용 모듈
 
-## Reference듈
+## Reference
 [1] https://doc.akka.io/docs/akka-http/current/index.html
+[2] https://doc.akka.io/docs/akka/2.5.26/actors.html
